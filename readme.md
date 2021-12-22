@@ -2,7 +2,7 @@ https://zuma-lab.com/posts/docker-python-settings
 
 
 # Setting Up a Python Remote Interpreter Using Docker
-
+https://dev.to/alvarocavalcanti/setting-up-a-python-remote-interpreter-using-docker-1i24
 ## Visual Studio Code
 1. Install the Python extension
 2. Install the Remote - Containers extension
